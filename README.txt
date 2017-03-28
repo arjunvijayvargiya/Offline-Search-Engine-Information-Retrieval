@@ -1,3 +1,8 @@
+<code>
+  SearchEngine se = new SearchEngine("Path to the folder containing docs");
+  se.build();
+  se.query("my query");
+</code>
 **************************README.txt*****************************
 Compiling and running the program. Type the following in the command prompt/cmd.exe or in the linux terminal.
 1)javac InformationRetreivalBeta.java
